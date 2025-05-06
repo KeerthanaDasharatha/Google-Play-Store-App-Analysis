@@ -4,6 +4,10 @@
 This project explores and analyzes mobile applications available on the Google Play Store.
 It combines app metadata and user reviews to gain insights into trends, user sentiment, and app popularity.
 
+![image](https://github.com/user-attachments/assets/537e199d-b308-4372-9460-471d30c8100b)
+
+
+
 googleplaystore.csv:                
 Contains metadata for over 10,000 apps including ratings, category, reviews, installs, type, price, content rating, and update information.
 

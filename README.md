@@ -87,7 +87,7 @@ Analyze user sentiment based on app features.
 Explore correlations between app size, rating, installs, and last updated.
 
 ## Key Insights:
-* Most apps are rated highly (right-skewed rating distribution).
+* Most apps are highly rated (it suggests that most user reviews are positive).
 
 * Free apps dominate the Play Store, but paid apps have varied install trends.
 
@@ -97,7 +97,7 @@ Explore correlations between app size, rating, installs, and last updated.
 
 * Highly rated apps are often regularly updated and lightweight.
 
-* Sentiment polarity is positively skewed for top apps.
+* Sentiment polarity is Bell-shaped curve for top apps.
 
 * Categories like “GAME” and “PRODUCTIVITY” receive the most user engagement.
 
